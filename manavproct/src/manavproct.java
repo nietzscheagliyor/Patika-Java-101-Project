@@ -31,7 +31,7 @@ public class manavproct {
 
         totalprice = (e+a+d+m+p);
 
-        System.out.println("Toplam Odencek tutar : " +totalprice);
+        System.out.println("Toplam Odenecek tutar : " +totalprice);
 
 
     }
